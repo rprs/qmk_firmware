@@ -25,7 +25,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
  * |--------+------+------+------+------+------| LGui |           |  \   |------+------+------+------+------+--------|
  * | LS     |   Z  |   X  |   C  |   V  |   B  |      |           | RGui |   N  |   M  |   ,  |   .  |   /  |   ]    |
  * `--------+------+------+------+------+-------------'           `-------------+------+------+------+------+--------'
- *   | LCtl | ~+L1 | ~+L2 |      | F10  |                                       |  Lft |  Up  |  Dn  | Rght | RGui |
+ *   | LCtl | ~+L1 | ~+L2 |      | Apps |                                       |  Lft |  Up  |  Dn  | Rght | RGui |
  *   `----------------------------------'                                       `----------------------------------'
  *                                        ,-------------.       ,-------------.
  *                                        | LCtl | LAlt |       | RAlt | RCtl |
@@ -41,7 +41,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   KC_ESC,  KC_Q,        KC_W,      KC_E,  KC_R,   KC_T, KC_LSFT,                KC_LSFT,         KC_Y, KC_U,    KC_I,    KC_O,   KC_P,    KC_LBRC,
   KC_TAB,  KC_A,        KC_S,      KC_D,  KC_F,   KC_G,                                          KC_H, KC_J,    KC_K,    KC_L,   KC_SCLN, KC_QUOT,
   KC_LSFT, KC_Z,        KC_X,      KC_C,  KC_V,   KC_B, KC_LGUI,                RGUI_T(KC_BSLS), KC_N, KC_M,    KC_COMM, KC_DOT, KC_SLSH, KC_RBRC,
-  KC_LCTL, TT(FNKEYS),  TT(MOUSE), KC_NO, KC_F10,                                                       KC_LEFT, KC_DOWN, KC_UP,  KC_RGHT, KC_RGUI,
+  KC_LCTL, TT(FNKEYS),  TT(MOUSE), KC_NO, KC_APP,                                                      KC_LEFT, KC_DOWN, KC_UP,  KC_RGHT, KC_RGUI,
                                                             KC_LCTL, KC_LALT,            KC_RALT, KC_RCTL,
                                                                      KC_HOME,            KC_PGUP,
                                                     KC_BSPC, KC_DEL, KC_END,             KC_PGDN, KC_ENT, KC_SPC

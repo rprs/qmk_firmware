@@ -2,16 +2,16 @@
 
 ## Useful links
 
-Repo: https://github.com/rprs/qmk_firmware/tree/master
-Docs: https://docs.qmk.fm/#/
-Tutorial to flash: https://docs.qmk.fm/#/newbs
-Explanation of layers: https://docs.qmk.fm/#/keymap
-Full list of keycodes: https://docs.qmk.fm/#/keycodes
-Possible solution for audio keys not working: https://github.com/qmk/qmk_firmware/issues/11572
+* Repo: https://github.com/rprs/qmk_firmware/tree/master
+* Docs: https://docs.qmk.fm/#/
+* Tutorial to flash: https://docs.qmk.fm/#/newbs
+* Explanation of layers: https://docs.qmk.fm/#/keymap
+* Full list of keycodes: https://docs.qmk.fm/#/keycodes
+* Possible solution for audio keys not working: https://github.com/qmk/qmk_firmware/issues/11572
 
 ## To make changes
 
-tl,dr: `cd ~/src/qmk_firmware && qmk compile && qmk flash`.
+_tl,dr: `cd ~/src/qmk_firmware && qmk compile && qmk flash`._
 
 * Make changes to your keymap: `~/src/qmk_firmware/keyboards/ergodox_ez/keymaps/rprs/keymap.c`.
 * Cd into the repo dir: `cd ~/src/qmk_firmware/`.

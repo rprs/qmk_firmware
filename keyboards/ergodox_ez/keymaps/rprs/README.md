@@ -11,7 +11,7 @@
 
 ## To make changes
 
-_tl,dr: `cd ~/src/qmk_firmware && qmk compile && qmk flash`._
+_tl,dr:_ `cd ~/src/qmk_firmware && qmk compile && qmk flash`.
 
 * Make changes to your keymap: `~/src/qmk_firmware/keyboards/ergodox_ez/keymaps/rprs/keymap.c`.
 * Cd into the repo dir: `cd ~/src/qmk_firmware/`.

@@ -7,6 +7,7 @@
 * Tutorial to flash: https://docs.qmk.fm/#/newbs
 * Explanation of layers: https://docs.qmk.fm/#/keymap
 * Full list of keycodes: https://docs.qmk.fm/#/keycodes
+* Docs into combos (though layers currently do the work for me): https://docs.qmk.fm/#/feature_combo?id=combos
 
 ## To make changes
 

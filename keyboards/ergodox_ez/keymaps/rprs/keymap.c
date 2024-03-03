@@ -157,7 +157,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   KC_TRNS, KC_NO,        KC_NO,        KC_NO,        LT(MIR_MEDIA, KC_ESC),                                     LT(MIR_FUN, KC_TAB), KC_NO,        KC_NO,        KC_NO,           KC_NO,
                                                                             KC_NO, KC_NO,         KC_NO, KC_NO,
                                                                                    KC_NO,         KC_NO,
-                                      LT(MIR_NAV, KC_BSPC), LT(MIR_MOUSE, KC_DEL), KC_NO,         KC_NO, LT(MIR_SYM, KC_NUM), LT(MIR_MEDIA, KC_SPC)
+                                      LT(MIR_NAV, KC_BSPC), LT(MIR_MOUSE, KC_DEL), KC_NO,         KC_NO, LT(MIR_SYM, KC_ENT), LT(MIR_NUM, KC_SPC)
 ),
 
 /* Keymap 4: Miryoku Media and Board

@@ -7,4 +7,3 @@
 // For making it easier to use home row mods (it allows me to use mods wihtout
 // waiting for the tapping term).
 #define PERMISSIVE_HOLD
-

@@ -8,6 +8,7 @@
 * Explanation of layers: https://docs.qmk.fm/#/keymap
 * Full list of keycodes: https://docs.qmk.fm/#/keycodes
 * Docs into combos (though layers currently do the work for me): https://docs.qmk.fm/#/feature_combo?id=combos
+* How to clean keycaps: https://help.corsair.com/hc/en-us/articles/360059094911-Tips-on-cleaning-your-keycaps-and-keyboard
 
 ## To make changes
 
@@ -41,4 +42,18 @@ This was a linux issue, not the keyboard.
 * Other layouts inspired by it.
   * Robin's compact https://configure.zsa.io/moonlander/layouts/xDpMW/latest/0/combos/list
   * Ronini's (inspired by robin's compcat, what Nevin uses): https://configure.zsa.io/voyager/layouts/D5lOq/latest/0
+
+## Cool features from qmk to try.
+
+Good thread for inspiration: https://www.reddit.com/r/olkb/comments/t4imri/qmk_tricks/
+
+* international keys (áéíóúñ).
+* permissive hold for home mods.
+* cap words?
+* vim layer?
+* word selection?
+* macros?
+  * web search word under cursor.
+  * join lines
+* leader key?
 

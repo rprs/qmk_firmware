@@ -1,12 +1,12 @@
 # Notes to myself.
 
-## Useful links
+## Useful links.
 
 * Repo: https://github.com/rprs/qmk_firmware/tree/master
 * How to clean keycaps: https://help.corsair.com/hc/en-us/articles/360059094911-Tips-on-cleaning-your-keycaps-and-keyboard
 * Touch typing practice, including capitals, nums  symbols: https://www.how-to-type.com/touch-typing-lessons/how-to-type-home-keys/
 
-### QMK links
+### QMK links.
 
 * Docs: https://docs.qmk.fm/#/
 * Tutorial to flash: https://docs.qmk.fm/#/newbs
@@ -14,7 +14,7 @@
 * Full list of keycodes: https://docs.qmk.fm/#/keycodes
 * Docs into combos (though layers currently do the work for me): https://docs.qmk.fm/#/feature_combo?id=combos
 
-## To make changes
+## To make changes.
 
 _tl,dr:_ `cd ~/src/qmk_firmware && qmk compile && qmk flash`.
 
@@ -24,7 +24,7 @@ _tl,dr:_ `cd ~/src/qmk_firmware && qmk compile && qmk flash`.
   * Since you already set your default keyboard and keymap (see `qmk config`), just do `qmk compile`.
 * Flash it! Run `qmk flash` (will ask to press the teensy key at one point).
 
-##  About the audio issue (media keys not working)
+##  About the audio issue (media keys not working).
 
 This was a linux issue, not the keyboard.
 

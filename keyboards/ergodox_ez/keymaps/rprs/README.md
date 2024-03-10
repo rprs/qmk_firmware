@@ -3,12 +3,16 @@
 ## Useful links
 
 * Repo: https://github.com/rprs/qmk_firmware/tree/master
+* How to clean keycaps: https://help.corsair.com/hc/en-us/articles/360059094911-Tips-on-cleaning-your-keycaps-and-keyboard
+* Touch typing practice, including capitals, nums  symbols: https://www.how-to-type.com/touch-typing-lessons/how-to-type-home-keys/
+
+### QMK links
+
 * Docs: https://docs.qmk.fm/#/
 * Tutorial to flash: https://docs.qmk.fm/#/newbs
 * Explanation of layers: https://docs.qmk.fm/#/keymap
 * Full list of keycodes: https://docs.qmk.fm/#/keycodes
 * Docs into combos (though layers currently do the work for me): https://docs.qmk.fm/#/feature_combo?id=combos
-* How to clean keycaps: https://help.corsair.com/hc/en-us/articles/360059094911-Tips-on-cleaning-your-keycaps-and-keyboard
 
 ## To make changes
 
